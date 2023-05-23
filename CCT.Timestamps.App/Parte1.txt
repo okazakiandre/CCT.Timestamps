@@ -1,0 +1,9 @@
+﻿CCT - Como fazer testes de unidade em datas e horas
+====================================================
+
+- Como esse conhecimento te ajuda?
+  - testar data e hora é problemático
+  - entender que os conceitos básicos são importantes
+
+- Mostrar código
+

@@ -1,0 +1,22 @@
+﻿CCT - Como fazer testes de unidade em datas e horas
+====================================================
+
+- Como esse conhecimento te ajuda?
+  - testar data e hora é problemático
+  - entender que os conceitos básicos são importantes
+
+- Mostrar código
+
+- Por que é um problema?
+  - o método não retorna sempre o mesmo resultado
+  - mostrar testes
+  - o teste pode quebrar em algumas situações
+
+- Como resolver
+  - o jeito simples e não muito exato
+    - assert por aproximação
+  - o jeito certo e mais complexo
+    - criar uma classe e uma interface
+  - classe TimeProvider
+  - não é tão diferente de mockar rede ou IO
+
